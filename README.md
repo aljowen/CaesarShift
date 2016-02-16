@@ -1,5 +1,6 @@
 # CaesarShift
 A Console program to Encrypt/Decrypt using the Caesar shift algorithm
+#####-Created by Alwyn Owen
 
 ##How to install program
 Just download the zip file and then extract the contents to a folder on your computer. The application is now installed, to use it just run the exe file.
