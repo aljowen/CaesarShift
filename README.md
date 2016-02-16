@@ -9,7 +9,7 @@ The user interface of this Caesar shift application is designed to be easy to us
 Much of this guide can also be found inside the help section of the program.
 
 ###General use
-This program uses a menu based system within the console. The program will present you with a couple options with numbers to the side of them. In order to select an option type the corresponding number and press enter.
+This program uses a menu based system within the console. The program will present you with a couple options with numbers to the side of them. In order to select an option type the corresponding number and press enter. This program also has commands which can be used to do certain functions at any point in the program.
 
 ###Main Menu Options
 ####Encrypt
