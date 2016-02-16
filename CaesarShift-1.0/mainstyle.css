@@ -1,0 +1,44 @@
+/*
+Mainstyle.css for caesar shift made by Alwyn Owen
+This document contains the styling for outputting to web files. If copying a web file to another location a copy 
+of this document should be made in order to allow for proper formatting. But even without this css file the text
+web pages created by this application should be viewable in any web browser. Just not as pretty.
+*/
+
+p{
+	margin: 8px;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+header{
+	background-color: black;
+	padding: 4px;
+}
+
+h1{
+	color: white;
+	font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+	font-size: 96px;
+	text-align: center;
+	margin: 10px;
+}
+
+#container{
+	background-color: white;
+	
+	position: relative;
+	left: 20%;
+	width: 60%;
+}
+
+@media screen and (max-width:990px){
+	#container{
+		left: 0%;
+		width: 100%;
+	}
+}
