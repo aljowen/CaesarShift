@@ -1,6 +1,7 @@
 # CaesarShift
 A Console program to Encrypt/Decrypt using the Caesar shift algorithm
 #####-Created by Alwyn Owen
+CaesarShift by Alwyn Owen is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ##How to install program
 Just download the zip file and then extract the contents to a folder on your computer. The application is now installed, to use it just run the exe file.
